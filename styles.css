@@ -1,0 +1,22 @@
+/* styles.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: black;
+}
+
+.cell {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ccc;
+    background-color: white;
+    display: inline-block;
+}
+
+.title {
+    text-align: center;
+    margin-top: 20px; /* Adjust margin as needed */
+}
